@@ -1,0 +1,58 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static and Shared Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Generated files from build systems
+/Makefile
+/Makefile.in
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/*.cmake
+build/
+/bin/
+/obj/
+/dist/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# IDE / Editor specific
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# Vim / Emacs
+*.swp
+*~
