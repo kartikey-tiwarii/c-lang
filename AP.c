@@ -5,8 +5,8 @@ int main() {
     scanf("%d",&n);
     // 4 7 10 13 16 19 ...
     for(int a= 1; a<=n; a++){
+        printf("%d \n", AP);
      AP = AP + 3;
-     printf("%d", AP);
     }
     return 0;
 }
